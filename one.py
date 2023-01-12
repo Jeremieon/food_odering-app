@@ -1,7 +1,4 @@
 import random
-#request food
-#make payment
-#get reciept
 food_obj = {
     'rice':145,
     'pasta':120,
